@@ -76,7 +76,7 @@
 
 ## Архитектура Проекта
 
-![image alt text](image_0.png)
+![image alt text](doc/image_0.png)
 
 ### Frontend:
 
